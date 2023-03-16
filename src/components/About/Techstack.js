@@ -10,7 +10,7 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
-  SiPytorch,
+  SiTensorflow,
   SiFirebase,
   SiNextdotjs,
 } from "react-icons/si";
@@ -46,7 +46,7 @@ function Techstack() {
         <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPytorch />
+        <SiTensorflow />
       </Col>
     </Row>
   );
